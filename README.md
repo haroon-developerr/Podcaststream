@@ -1,16 +1,8 @@
-# Podstream
-<div align='center'>
+# Podcaststream
 
-![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
-![GitHub forks](https://img.shields.io/github/forks/rishavchanda/Podstream)
-![GitHub starts](https://img.shields.io/github/stars/rishavchanda/Podstream)
-![GitHub license](https://img.shields.io/github/license/rishavchanda/Podstream)
-![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
-![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
-![CSS](https://img.shields.io/badge/CSS-Styles-pink)
-![React](https://img.shields.io/badge/React-Components-orange)
+![image](https://github.com/user-attachments/assets/0a42bdd3-def3-49d1-a3a9-406bf067ed83)
+![image](https://github.com/user-attachments/assets/f2005948-54d9-4071-8024-7e3a5ace525d)
 
-</div>
 
 ## Podcast Streaming Application
 
